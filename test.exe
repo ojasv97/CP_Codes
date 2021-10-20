@@ -1,0 +1,11 @@
+# 1 "c:\\Users\\ojas\\Desktop\\Codes\\test.java"
+# 1 "C:\\MinGW\\bin//"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "c:\\Users\\ojas\\Desktop\\Codes\\test.java"
+public class test
+{
+    public static void main(String []args){
+        System.out.println("Hey Boy!");
+    }
+}
